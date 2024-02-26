@@ -1,8 +1,5 @@
-A DOCUMENTATION OF NUMPY AND PANDAS LIBRARIES AND THEIR APPLICATIONS 
+This article gives a thorough explanation of sepcific Python Packages : Numpy and Pandas
 	
-
-BY
- KOLAWOLE DAVID OLANIPEKUN
 
 
 INTRODUCTION
